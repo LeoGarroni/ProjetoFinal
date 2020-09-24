@@ -1,0 +1,32 @@
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\bin\Debug\Porjeto Final.exe.config
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\bin\Debug\Porjeto Final.exe
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\bin\Debug\Porjeto Final.pdb
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\obj\Debug\Projeto Final.csprojAssemblyReference.cache
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmPrin.resources
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\obj\Debug\Porjeto_Final.Properties.Resources.resources
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.cache
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\obj\Debug\Porjeto Final.exe
+C:\Users\labot\source\repos\Porjeto Final\Porjeto Final\obj\Debug\Porjeto Final.pdb
+D:\Projeto Final\Porjeto Final\bin\Debug\Porjeto Final.exe.config
+D:\Projeto Final\Porjeto Final\bin\Debug\Porjeto Final.exe
+D:\Projeto Final\Porjeto Final\bin\Debug\Porjeto Final.pdb
+D:\Projeto Final\Porjeto Final\obj\Debug\Projeto Final.csprojAssemblyReference.cache
+D:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmPrin.resources
+D:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.Properties.Resources.resources
+D:\Projeto Final\Porjeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.cache
+D:\Projeto Final\Porjeto Final\obj\Debug\Porjeto Final.exe
+D:\Projeto Final\Porjeto Final\obj\Debug\Porjeto Final.pdb
+D:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmLogin.resources
+D:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmRanking.resources
+E:\Projeto Final\Porjeto Final\bin\Debug\Porjeto Final.exe.config
+E:\Projeto Final\Porjeto Final\bin\Debug\Porjeto Final.exe
+E:\Projeto Final\Porjeto Final\bin\Debug\Porjeto Final.pdb
+E:\Projeto Final\Porjeto Final\obj\Debug\Projeto Final.csprojAssemblyReference.cache
+E:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmLogin.resources
+E:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmPrin.resources
+E:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.Properties.Resources.resources
+E:\Projeto Final\Porjeto Final\obj\Debug\Porjeto_Final.FrmRanking.resources
+E:\Projeto Final\Porjeto Final\obj\Debug\Projeto Final.csproj.GenerateResource.cache
+E:\Projeto Final\Porjeto Final\obj\Debug\Projeto Final.csproj.CoreCompileInputs.cache
+E:\Projeto Final\Porjeto Final\obj\Debug\Porjeto Final.exe
+E:\Projeto Final\Porjeto Final\obj\Debug\Porjeto Final.pdb
